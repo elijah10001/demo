@@ -1,0 +1,16 @@
+h1{
+    color: hotpink;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    width: 100%;
+}
+.elijah{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border-top-left-radius: 20%;
+    border-top-right-radius: 40%;
+}
