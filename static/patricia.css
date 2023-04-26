@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    text-decoration: none;
+    justify-content: center;
+
+}
+
+    li{
+        margin: 10px;
+
+      }
+
+.button{
+
+    background-color: yellow;
+    padding: 7px;
+}
+
+.sign{
+
+    padding: 7px;
+}

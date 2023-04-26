@@ -1,0 +1,77 @@
+.background{
+    background-color: #FFFAE5;
+    background-size: 10000px;
+
+}
+
+
+.first {
+
+    color: #006156;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 500px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    
+    
+}
+
+.second{
+
+    color: gainsboro;
+    font-size: 17px;
+    margin-left: 50px;
+}
+
+.button{
+
+
+    background-color: #FFCE00;
+    color: black;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    
+}
+
+#visa{
+
+    width: 100px;
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 100px;
+
+}
+
+#mastercard{
+
+    width: 40px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    margin-top: 15px;
+
+
+}
+
+
+#verified{
+
+    width: 40px;
+    margin-left: 30px;
+    margin-bottom: 100px;
+    margin-top: 15px;
+}
+
+#globe{
+
+    width: 500px;
+    margin-left: 1000px;
+    margin-bottom: 200px;
+    margin-top: -500px;
+    
+
+    
+}

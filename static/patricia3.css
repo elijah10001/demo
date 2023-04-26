@@ -1,0 +1,117 @@
+section{
+    background-color: #006156;
+    
+
+}
+
+.first{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 500px;
+    margin-top: 100px;
+}
+
+
+
+.head{
+    transform: translateY(-180px);
+     color: white;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     text-align: center;
+}
+
+.head h2{
+  width: 50%;
+  font-size: 3em;
+  margin-bottom: 3%;
+  text-align: left;  
+}
+
+.head p{
+    text-align: left;
+    width: 50%;
+    font-size: .9rem;
+
+}
+
+.Semester h2{
+        font-weight: 600;
+        margin-bottom: 30px;
+
+
+}
+
+.Semester p{
+    color: darkgray;
+
+
+}
+
+.semester1, .semester2{
+    border-right: 1px solid darkgray;
+    padding-right: 50px;
+}
+
+.Riding{
+    background-color: white;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+.riding1 h1{
+    margin-top: 1000px;
+    font-size: 40px;
+
+
+
+}
+
+.riding1 h2{
+
+    margin-top: 80px;
+    font-size: 50px;
+    margin-bottom: 25px;
+
+
+}
+
+.riding1 p{
+
+    color: darkgray;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+input{
+    width: 400px;
+    height: 55px;
+    border-radius: 10px;
+    border: transparent;
+
+}
+
+.Riding button{
+    color: white;
+    background-color: black;
+    padding: 16px;
+    border-radius: 10px;
+    border: 3px solid transparent;
+
+
+}
+
+.Riding button:hover{
+    background-color: darkcyan;
+    transition: 0.6s;
+    border: 3px solid beige;
+}
