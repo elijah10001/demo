@@ -1,0 +1,66 @@
+h2{ 
+
+    color: white;
+    
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    
+
+
+    
+}
+button{
+
+    color:black;
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+
+input[type="email"], input[type="password"]{
+    width: 370px;
+    height: 50px;
+}
+
+
+section{
+
+    text-align: center;
+}
+.border{
+    background-color: white;
+    margin: 10px 580px;
+    opacity: 0.8;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    
+}
+
+input{
+        border-top-style: hidden;
+        border-left-style: hidden;
+        border-right-style: hidden;
+    }
+
+    label{
+
+        font-size: 25px;
+    }
+
+    section{
+
+position: relative;
+flex: auto;
+justify-content: center;
+background: local;
+background-color: #006156;
+opacity: 0.8;
+border-radius: 100px;
+margin-left: 80px;
+margin-right: 80px;
+background-image: url(./images/BG.jpg);
+
+    }
